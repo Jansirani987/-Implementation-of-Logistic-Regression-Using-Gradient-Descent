@@ -31,12 +31,6 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: JANSI RANI A A
 RegisterNumber:  212224040130
 
-/*
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Haridharshini J
-RegisterNumber: 212224040098 
-*/
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -129,12 +123,12 @@ print("Prediction for xnew 2:", y_prednew)
 ```
 
 ## Output:
+<img width="666" height="139" alt="Screenshot (739)" src="https://github.com/user-attachments/assets/5dfe7884-2d59-4f53-a670-d8c2e69c7300" />
+<img width="724" height="130" alt="Screenshot (740)" src="https://github.com/user-attachments/assets/2e68af52-0dd1-4d4f-909a-f56998fc8a9a" />
+<img width="719" height="137" alt="Screenshot (741)" src="https://github.com/user-attachments/assets/bf9ae1d3-c6ac-4879-b921-9a2cd35a8f1a" />
+<img width="410" height="138" alt="Screenshot (742)" src="https://github.com/user-attachments/assets/896e0566-4db3-49a9-879a-5d70091d6e46" />
+<img width="730" height="205" alt="Screenshot (743)" src="https://github.com/user-attachments/assets/72df6cdc-1150-42d0-b76d-604f20e2ad8b" />
 
-<img width="695" height="146" alt="Screenshot (739)" src="https://github.com/user-attachments/assets/2de31322-b869-41b9-b679-59463bf9692e" />
-<img width="724" height="144" alt="Screenshot (740)" src="https://github.com/user-attachments/assets/910bbf32-551f-4e76-bfff-ddba8c972e91" />
-<img width="733" height="139" alt="Screenshot (741)" src="https://github.com/user-attachments/assets/f0ab528d-f93f-4be2-bc3a-fceb86af6487" />
-<img width="410" height="138" alt="Screenshot (742)" src="https://github.com/user-attachments/assets/54e67726-0efb-4e61-a875-f5f35e817f20" />
-<img width="730" height="205" alt="Screenshot (743)" src="https://github.com/user-attachments/assets/45f3b933-a05a-48f0-8f95-6399d6abdb66" />
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
